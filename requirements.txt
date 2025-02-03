@@ -1,3 +1,6 @@
 opencv-python
 pyttsx3
 ultralytics
+torch
+torchvision
+torchaudio
